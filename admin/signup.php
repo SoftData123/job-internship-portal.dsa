@@ -88,7 +88,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <img src="assets/images/logo-icon.png" width="60" alt="" />
                 </div>
                 <div class="text-center mb-4">
-                    <h5 class="">Syndron Admin</h5>
+                    <h5 class="">Job Portal Admin</h5>
                     <p class="mb-0">Please fill the below details to create your account</p>
                 </div>
                 <div class="form-body">
