@@ -141,65 +141,44 @@ include('comman/header.php'); ?>
                 <div class="col-xl-8 col-lg-8 col-md-10">
                     <div class="h1-testimonial-active dot-style">
 
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <div class="testimonial-caption">
-                                <!-- Founder -->
-                                <div class="testimonial-founder">
-                                    <div class="founder-img mb-4">
-                                        <img src="assets/img/testmonial/imgage.jpg"
-                                            alt="Founder & CEO - Data-Software Analysis" class="founder-photo">
-                                        <h5 class="mt-3 mb-1 fw-bold">Er. Rushikesh Kekane</h5>
-                                        <p class="small text-muted">Founder & CEO, Data-Software Analysis</p>
-
-                                        <!-- Social Links -->
-                                        <div class="founder-social mt-3">
-                                            <a href="https://data-softwareanalysis.com" target="_blank"
-                                                title="Official Website"><i class="fas fa-globe"></i></a>
-                                            <a href="https://www.linkedin.com/in/data-software-analysis-4a271a375/"
-                                                target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                                            <a href="https://x.com/software930061" target="_blank" title="Twitter"><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a href="https://www.facebook.com/profile.php?id=61578819190184"
-                                                target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-                                            <a href="https://www.instagram.com/data_software_analysis/?hl=en"
-                                                target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                            <!-- Single Testimonial -->
+                            <div class="single-testimonial text-center">
+                                <div class="testimonial-caption">
+                                    <!-- Founder -->
+                                    <div class="testimonial-founder">
+                                        <div class="founder-img mb-30">
+                                            <img src="assets/img/testmonial/testimonial-founder.png"
+                                                alt="Founder & CEO - Data-Software Analysis">
+                                            <span>Er. Rushikesh Kekane</span>
+                                            <p>Founder & CEO, Data-Software Analysis</p>
+                                            <!-- Social Links -->
+                                            <div class="founder-social mt-15">
+                                                <a href="https://datasoftwareanalysis.com" target="_blank"
+                                                    title="Official Website">
+                                                    <i class="fas fa-globe"></i>
+                                                </a>
+                                                <a href="https://www.linkedin.com/in/rushikeshkekane" target="_blank"
+                                                    title="LinkedIn">
+                                                    <i class="fab fa-linkedin-in"></i>
+                                                </a>
+                                                <a href="https://twitter.com/" target="_blank" title="Twitter">
+                                                    <i class="fab fa-twitter"></i>
+                                                </a>
+                                                <a href="https://www.facebook.com/" target="_blank" title="Facebook">
+                                                    <i class="fab fa-facebook-f"></i>
+                                                </a>
+                                            </div>
                                         </div>
-
+                                    </div>
+                                    <div class="testimonial-top-cap">
+                                        <p>“At Data-Software Analysis, we are committed to empowering students,
+                                            freshers, and professionals through AI-driven job matching, verified
+                                            internships, and industry-ready skill programs to help them thrive in the
+                                            modern digital economy.”</p>
                                     </div>
                                 </div>
-                                <style>
-                                    .founder-photo {
-                                        width: 180px;
-                                        height: 180px;
-                                        object-fit: cover;
-                                        border-radius: 50%;
-                                        border: 4px solid #0dcaf0;
-                                        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
-                                    }
-
-                                    .founder-social a {
-                                        display: inline-block;
-                                        margin: 0 6px;
-                                        font-size: 1.2rem;
-                                        color: #555;
-                                        transition: color 0.3s, transform 0.3s;
-                                    }
-
-                                    .founder-social a:hover {
-                                        color: #0dcaf0;
-                                        transform: scale(1.2);
-                                    }
-                                </style>
-                                <div class="testimonial-top-cap">
-                                    <p>“At Data-Software Analysis, we are committed to empowering students,
-                                        freshers, and professionals through AI-driven job matching, verified
-                                        internships, and industry-ready skill programs to help them thrive in the
-                                        modern digital economy.”</p>
-                                </div>
                             </div>
-                        </div>
-                        <!-- End Single Testimonial -->
+                            <!-- End Single Testimonial -->
 
                     </div>
                 </div>
@@ -208,7 +187,6 @@ include('comman/header.php'); ?>
     </div>
     <!-- Testimonial End -->
 
-</main>
-<?php
-include('comman/footer.php');
-?>
+    </main>    <?php
+    include ('comman/footer.php');
+    ?>
