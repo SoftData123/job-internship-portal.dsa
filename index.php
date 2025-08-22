@@ -195,7 +195,7 @@ include ('comman/header.php'); ?>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="browse-btn2 text-center mt-50">
-                            <a href="job_listing.html" class="border-btn2">Browse All IT & Software Jobs</a>
+                            <a href="job_listing.php" class="border-btn2">Browse All IT & Software Jobs</a>
                         </div>
                     </div>
                 </div>
@@ -255,12 +255,12 @@ include ('comman/header.php'); ?>
                                     <ul>
                                         <li>Data-Software Analysis</li>
                                         <li><i class="fas fa-map-marker-alt"></i> Remote / Nashik, India</li>
-                                        <li>Unpaid - Certificate Provided</li>
+                                        <li>Unpaid</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="items-link f-right">
-                                <a href="internship_details.html">Internship</a>
+                                <a href="job_listing.php">Internship</a>
                                 <span>Posted 2 days ago</span>
                             </div>
                         </div>
@@ -281,12 +281,12 @@ include ('comman/header.php'); ?>
                                     <ul>
                                         <li>Data-Software Analysis</li>
                                         <li><i class="fas fa-map-marker-alt"></i> Remote / Nashik, India</li>
-                                        <li>Unpaid - Certificate Provided</li>
+                                        <li>Stipend</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="items-link f-right">
-                                <a href="internship_details.html">Internship</a>
+                                <a href="job_listing.php">Full Time</a>
                                 <span>Posted 3 days ago</span>
                             </div>
                         </div>
@@ -307,12 +307,12 @@ include ('comman/header.php'); ?>
                                     <ul>
                                         <li>Data-Software Analysis</li>
                                         <li><i class="fas fa-map-marker-alt"></i> Remote / Nashik, India</li>
-                                        <li>Unpaid - Certificate Provided</li>
+                                        <li>Unpaid</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="items-link f-right">
-                                <a href="internship_details.html">Internship</a>
+                                <a href="job_listing.php">Internship</a>
                                 <span>Posted 5 days ago</span>
                             </div>
                         </div>

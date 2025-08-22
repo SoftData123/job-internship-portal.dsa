@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--favicon-->
-	<link rel="icon" href="assets/images/favicon-32x32.png" type="image/png" />
+	<link rel="icon" href="assets\img\logo\DSA logo.png" type="image/png" />
 	<!--plugins-->
 	<link href="assets/plugins/vectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet" />
 	<link href="assets/plugins/simplebar/css/simplebar.css" rel="stylesheet" />
@@ -41,7 +41,7 @@
 					<nav class="navbar navbar-expand gap-3">
 						<div class="topbar-logo-header d-none d-lg-flex">
 							<div class="">
-								<img src="assets/images/logo-icon.png" class="logo-icon" alt="logo icon">
+								<img src="assets\img\logo\DSA logo.png" class="logo-icon" alt="logo icon">
 							</div>
 							<div class="">
 								<h4 class="logo-text">DSA_JOB</h4>

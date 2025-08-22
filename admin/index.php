@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--favicon-->
-	<link rel="icon" href="assets/images/favicon-32x32.png" type="image/png" />
+	<link rel="icon" href="assets\img\logo\DSA logo.png" type="image/png" />
 	<!--plugins-->
 	<link href="assets/plugins/simplebar/css/simplebar.css" rel="stylesheet" />
 	<link href="assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet" />
@@ -65,7 +65,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet">
 	<link href="assets/css/app.css" rel="stylesheet">
 	<link href="assets/css/icons.css" rel="stylesheet">
-	<title>Syndron - Bootstrap 5 Admin Dashboard Template</title>
+	<title>DSA JOB Portal</title>
 </head>
 
 <body class="">
@@ -80,7 +80,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="card-body">
         <div class="p-4">
             <div class="mb-3 text-center">
-                <img src="assets/images/logo-icon.png" width="60" alt="logo" />
+                <img src="assets\img\logo\DSA logo.png" width="60" alt="logo" />
             </div>
             <div class="text-center mb-4">
                 <h5>Job Portal Admin</h5>
